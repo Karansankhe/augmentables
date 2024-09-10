@@ -11,6 +11,11 @@ This project includes a loan approval prediction system with three main componen
 **Frontend Application**: Streamlit app for user interaction.
 
 
+
+
+
+![image](https://github.com/user-attachments/assets/c971d31d-9a0f-4118-a492-53c10bce67c7)
+
     
 Setup
 1. **Model Training**

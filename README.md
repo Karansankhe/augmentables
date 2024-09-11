@@ -12,9 +12,9 @@ This project includes a loan approval prediction system with three main componen
 
 
 
+![diagram-export-9-11-2024-1_48_56-AM](https://github.com/user-attachments/assets/d14dcdd3-3be0-4f48-9b7c-7d484316e61c)
 
 
-![image](https://github.com/user-attachments/assets/c971d31d-9a0f-4118-a492-53c10bce67c7)
 
     
 Setup

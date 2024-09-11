@@ -61,7 +61,7 @@ gunicorn==20.2.0
 Start the Flask server:
 The API will be available at http://127.0.0.1:8080/predict.
 
-3. Frontend Application
+3. **Frontend Application**
 The Streamlit app allows users to input loan details and get predictions.
 
 Streamlit App (frontend/app.py)

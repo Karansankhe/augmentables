@@ -21,7 +21,7 @@ Setup
 1. **Model Training**
 This script trains a Random Forest model on the provided dataset.
 
-Training Script (model/train_model.py)
+Training Script (Notebook/main.ipynb)
 Navigate to the model directory:
 
 
@@ -29,17 +29,17 @@ cd model
 Install the required dependencies:
 
 
-pip install pandas scikit-learn pickle5
+pip install -r requirements.txt
 Run the training script:
 
 
-python train_model.py
+python main.ipynb
 This will process the dataset train.csv, train a Random Forest model, and save it as loan_approval_rf_model.pkl.
 
 2. **Backend API**
 The Flask API provides endpoints for loan approval predictions.
 
-Flask API (backend/app.py)
+Flask API (backend/main.py)
 Navigate to the backend directory:
 
 
@@ -73,8 +73,8 @@ Install the required dependencies:
 pip install streamlit requests numpy
 Start the Streamlit app:
 
-streamlit run app.py
-The app will be accessible in your web browser at the address shown in the terminal, typically http://localhost:8501.
+streamlit run main.py
+
 
 How to Use
 Train the Model: Run the training script to generate the model file.

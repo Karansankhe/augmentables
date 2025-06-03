@@ -1,6 +1,6 @@
 **Loan Approval Prediction System**
 
-This model uses a Random Forest classifier trained on features like Gender, Married status, Dependents, Education, Self-Employment, Applicant Income, Coapplicant Income, Loan Amount, Loan Term, Credit History, and Property Area.
+This model uses a Random Forest classifier trained on features like Gender, Married status, Dependents, Educatin, Self-Employment, Applicant Income, Coapplicant Income, Loan Amount, Loan Term, Credit History, and Property Area.
 
 
 Overview
